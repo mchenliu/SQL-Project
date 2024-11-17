@@ -1,7 +1,7 @@
 # Introduction
-This project focuses on exploring jobs in data analytics. Including revealing top-paying jobs, highly-demanded skills and what skills pays the most. My initial intention was to focus on the New Zealand and Australia market but due to data collection limitation, this project will explore all job postings.
+:mega: This project focuses on exploring jobs in data analytics. Including revealing top-paying jobs, highly-demanded skills and what skills pays the most. My initial intention was to focus on the New Zealand and Australia market but due to data collection limitation, this project will explore all job postings.
 
-Check out SQL queries here: [project_sql folder](/project_sql/)
+:computer: Check out SQL queries here: [project_sql folder](/project_sql/)
 
 # Background
 This project is created under the guidance of Luke Barousse's [SQL Course](https://lukebarousse.com/sql). The goal of this project is to demontrate my understanding of SQL. 
@@ -267,9 +267,9 @@ Here's a breakdown of the most optimal skills for data analysts in 2023:
 
 Throughout this project, I have learn SQL in a systemic manner. Here are some of my key take-aways:
 
-- **Mastering Advanced Query Crafting:** mastered the skill of joining tables, subquries and CTEs.
-- **Github and VS Manoeuvre:** familiered myself with the connetion of Git, Github, Visual Studio Code and PostgreSQL
-- **Interpreting Data for Insights:** telling a story from the results is the next step after writing correct queries. Data visualization is also a crucial step.
+- :crystal_ball: **Mastering Advanced Query Crafting:** mastered the skill of joining tables, subquries and CTEs.
+- :hammer: **Github and VS Manoeuvre:** familiered myself with the connetion of Git, Github, Visual Studio Code and PostgreSQL
+- :triangular_ruler: **Interpreting Data for Insights:** telling a story from the results is the next step after writing correct queries. Data visualization is also a crucial step.
 
 # Conclusions
 
