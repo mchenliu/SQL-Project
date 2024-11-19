@@ -4,7 +4,7 @@
 :computer: Check out SQL queries here: [project_sql folder](/project_sql/)
 
 # Background
-This project is created under the guidance of Luke Barousse's [SQL Course on Youtube](https://lukebarousse.com/sql). The goal of this project is to demontrate my understanding of SQL. 
+This project is created under the guidance of Luke Barousse's SQL Course [Youtube tutorial](https://lukebarousse.com/sql). The goal of this project is to demontrate my understanding of SQL. 
 
 ### The questions I wanted to answer through my SQL queries were:
 
