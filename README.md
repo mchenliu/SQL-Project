@@ -1,9 +1,29 @@
+# Table of Contents
+
+- [Table of Contents](#table-of-contents)
+- [Introduction](#introduction)
+- [Background](#background)
+    - [The questions I wanted to answer through my SQL queries were:](#the-questions-i-wanted-to-answer-through-my-sql-queries-were)
+- [Tools I used](#tools-i-used)
+- [The Analysis](#the-analysis)
+    - [1. Top Paying Data Analyst Jobs](#1-top-paying-data-analyst-jobs)
+    - [2. Skills for Top Paying Roles](#2-skills-for-top-paying-roles)
+    - [3. In-Demand Skills for Data Analysts](#3-in-demand-skills-for-data-analysts)
+    - [4. Skills Based on Salary](#4-skills-based-on-salary)
+    - [5. Most Optimal Skills to Learn](#5-most-optimal-skills-to-learn)
+- [What I Learned](#what-i-learned)
+- [Conclusions](#conclusions)
+    - [Insights](#insights)
+    - [Closing Thoughts](#closing-thoughts)
+
 # Introduction
+
 :mega: This project focuses on exploring jobs in data analytics. Including revealing top-paying jobs, highly-demanded skills and what skills pays the most. My initial intention was to focus on the New Zealand and Australia market but due to data collection limitation, this project will explore all job postings.
 
 :computer: Check out SQL queries here: [project_sql folder](/project_sql/)
 
 # Background
+
 This project is created under the guidance of Luke Barousse's SQL Course [Youtube tutorial](https://lukebarousse.com/sql). The goal of this project is to demontrate my understanding of SQL. 
 
 ### The questions I wanted to answer through my SQL queries were:
