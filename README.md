@@ -1,4 +1,5 @@
 ![Banner](/assets/Banner.webp)
+*Banner created by ChatGPT*
 # Table of Contents
 
 - [Table of Contents](#table-of-contents)
